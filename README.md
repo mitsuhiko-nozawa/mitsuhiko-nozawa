@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitsuhiko-nozawa&repo=convoychat" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuhiko-nozawa&repo=github-readme-stats&hide=jupyter" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuhiko-nozawa&repo=github-readme-stats&hide=jupyter%20notebook" />
