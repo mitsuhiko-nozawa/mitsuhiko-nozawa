@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=mitsuhiko-nozawa)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitsuhiko-nozawa&repo=github-readme-stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuhiko-nozawa&repo=github-readme-stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitsuhiko-nozawa&repo=convoychat" />
 
