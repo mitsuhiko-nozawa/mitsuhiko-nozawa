@@ -3,7 +3,7 @@
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=mitsuhiko-nozawa&repo=convoychat&theme=tokyonight&hide=stars" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuhiko-nozawa&repo=github-readme-stats&theme=tokyonight&hide=jupyter%20notebook,makefile" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuhiko-nozawa&repo=github-readme-stats&theme=tokyonight&hide=HTML,makefile" />
 </p>
 
 
