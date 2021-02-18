@@ -4,9 +4,10 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=mitsuhiko-nozawa&repo=convoychat&theme=tokyonight&hide=stars" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuhiko-nozawa&layout=compact&repo=github-readme-stats&theme=tokyonight&hide=html,jupyter%20notebook,makefile" />
-
 </p>
 
+Probspace <a href="https://prob.space/competitions/game_winner">対戦ゲームデータ分析甲子園</a>  8th / 287 teams </br>
+siangte <a href="https://prob.space/competitions/game_winner">JR東日本 列車運行予測</a>  28th / 442 teams </br>
 
 ### My skills
 <p>
