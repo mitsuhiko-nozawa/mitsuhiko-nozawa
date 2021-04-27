@@ -7,7 +7,7 @@
 </p>
 
 Probspace <a href="https://prob.space/competitions/game_winner">対戦ゲームデータ分析甲子園</a>  8th / 287 teams </br>
-siangte <a href="https://prob.space/competitions/game_winner">JR東日本 列車運行予測</a>  28th / 442 teams </br>
+siangte <a href="https://signate.jp/competitions/363">JR東日本 列車運行予測</a>  28th / 442 teams </br>
 
 ### My skills
 <p>
